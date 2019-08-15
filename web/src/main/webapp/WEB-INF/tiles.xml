@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE  tiles-definitions PUBLIC
+        "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+        "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+    <tiles-definitions>
+
+    <definition name="default" template="/WEB-INF/jsp/layouts/default.jsp">
+        <put-attribute name="title" value=""/>
+        <put-attribute name="header" value="/WEB-INF/jsp/common/header.jsp"/>
+        <put-attribute name="body" value=""/>
+        <put-attribute name="footer" value="/WEB-INF/jsp/common/footer.jsp"/>
+    </definition>
+
+    <definition name="main" extends="default">
+        <put-attribute name="title" value="index.title"/>
+        <put-attribute name="body" value="/WEB-INF/jsp/index.jsp"/>
+    </definition>
+
+    <definition name="addrequest" extends="default">
+        <put-attribute name="title" value="Add request"/>
+        <put-attribute name="body" value="/WEB-INF/jsp/addRequest.jsp"/>
+    </definition>
+
+    <definition name="login" extends="default">
+        <put-attribute name="title" value="Login"/>
+        <put-attribute name="body" value="/WEB-INF/jsp/auth/login.jsp"/>
+    </definition>
+
+    <definition name="registration" extends="default">
+        <put-attribute name="title" value="Registration"/>
+        <put-attribute name="body" value="/WEB-INF/jsp/auth/registration.jsp"/>
+    </definition>
+
+    <definition name="logout" extends="default">
+        <put-attribute name="title" value="Logout"/>
+        <!--<put-attribute name="body" value="/WEB-INF/jsp/auth/registration.jsp"/>-->
+    </definition>
+
+    <definition name="accounts/admin" extends="default">
+        <put-attribute name="title" value="Main Admin"/>
+        <put-attribute name="body" value="/WEB-INF/jsp/accounts/admin/admin.jsp"/>
+    </definition>
+
+    <definition name="accounts/admin/editcars" extends="default">
+        <put-attribute name="title" value="Edit cars"/>
+        <put-attribute name="body" value="/WEB-INF/jsp/accounts/admin/editCars.jsp"/>
+    </definition>
+
+    <definition name="accounts/admin/editclients" extends="default">
+        <put-attribute name="title" value="Edit clients"/>
+        <put-attribute name="body" value="/WEB-INF/jsp/accounts/admin/editClients.jsp"/>
+    </definition>
+
+    <definition name="accounts/admin/editrequests" extends="default">
+        <put-attribute name="title" value="Edit requests"/>
+        <put-attribute name="body" value="/WEB-INF/jsp/accounts/admin/editRequests.jsp"/>
+    </definition>
+
+    <definition name="accounts/admin/edittracks" extends="default">
+        <put-attribute name="title" value="Edit tracks"/>
+        <put-attribute name="body" value="/WEB-INF/jsp/accounts/admin/editTracks.jsp"/>
+    </definition>
+
+    <definition name="accounts/user" extends="default">
+        <put-attribute name="title" value="Main User"/>
+        <put-attribute name="body" value="/WEB-INF/jsp/accounts/user/user.jsp"/>
+    </definition>
+
+    <definition name="accounts/user/myrequests" extends="default">
+        <put-attribute name="title" value="My requests"/>
+        <put-attribute name="body" value="/WEB-INF/jsp/accounts/user/editRequests.jsp"/>
+    </definition>
+
+    <!--<definition name="admin/" extends="default">-->
+        <!--<put-attribute name="title" value="Main Admin"/>-->
+        <!--<put-attribute name="body" value="/WEB-INF/jsp/accounts/admin/admin.jsp"/>-->
+    <!--</definition>-->
+
+
+</tiles-definitions>

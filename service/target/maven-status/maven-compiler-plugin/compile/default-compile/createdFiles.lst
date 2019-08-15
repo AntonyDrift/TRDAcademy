@@ -1,0 +1,12 @@
+com/jd2/TRDacademy/services/ClientService.class
+com/jd2/TRDacademy/services/TrackService.class
+com/jd2/TRDacademy/services/GenericService.class
+com/jd2/TRDacademy/services/impl/RequestServiceImpl.class
+com/jd2/TRDacademy/services/UserService.class
+com/jd2/TRDacademy/services/impl/BaseService.class
+com/jd2/TRDacademy/services/impl/TrackServiceImpl.class
+com/jd2/TRDacademy/services/CarService.class
+com/jd2/TRDacademy/services/impl/CarServiceImpl.class
+com/jd2/TRDacademy/services/RequestService.class
+com/jd2/TRDacademy/services/impl/UserServiceImpl.class
+com/jd2/TRDacademy/services/impl/ClientServiceImpl.class

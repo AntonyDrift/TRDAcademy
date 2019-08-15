@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.jd2.TRDacademy.dao.UserDaoTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.287 s <<< FAILURE! - in com.jd2.TRDacademy.dao.UserDaoTest
+getEmails(com.jd2.TRDacademy.dao.UserDaoTest)  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.IllegalArgumentException: org.hibernate.QueryException: could not resolve property: user_email of: com.jd2.TRDacademy.entities.User [SELECT u.user_email FROM com.jd2.TRDacademy.entities.User u]
+	at com.jd2.TRDacademy.dao.UserDaoTest.getEmails(UserDaoTest.java:33)
+Caused by: org.hibernate.QueryException: could not resolve property: user_email of: com.jd2.TRDacademy.entities.User [SELECT u.user_email FROM com.jd2.TRDacademy.entities.User u]
+	at com.jd2.TRDacademy.dao.UserDaoTest.getEmails(UserDaoTest.java:33)
+Caused by: org.hibernate.QueryException: could not resolve property: user_email of: com.jd2.TRDacademy.entities.User
+	at com.jd2.TRDacademy.dao.UserDaoTest.getEmails(UserDaoTest.java:33)
+

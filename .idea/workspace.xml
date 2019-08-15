@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="612390ac-1d62-4768-853d-d3a97a785053" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/dao/target/" />
+    <ignored path="$PROJECT_DIR$/service/target/" />
+    <ignored path="$PROJECT_DIR$/web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Machine@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Machine@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Machine@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="Machine: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Machine@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="Machine: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="cars: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Machine@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="Machine: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="hibernate_sequence: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Machine@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="Machine: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="users: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1763321461">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.138" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.49" value="2" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.63" value="2" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.67" value="3" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.69" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.70" value="2" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.79" value="2" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.84" value="1" />
+          <entry key="project.opened" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Car" value="1" />
+          <entry key="SpringLocalModels/module=service" value="2" />
+          <entry key="SpringLocalModels/module=web" value="1" />
+          <entry key="cars" value="16" />
+          <entry key="class" value="17" />
+          <entry key="clients" value="2" />
+          <entry key="css" value="2" />
+          <entry key="hibernate_sequence" value="1" />
+          <entry key="iml" value="15" />
+          <entry key="java" value="727" />
+          <entry key="jsp" value="51" />
+          <entry key="jspx" value="10" />
+          <entry key="log" value="1" />
+          <entry key="properties" value="24" />
+          <entry key="requests" value="1" />
+          <entry key="sql" value="1" />
+          <entry key="tracks" value="1" />
+          <entry key="users" value="6" />
+          <entry key="xml" value="137" />
+          <entry key="xml;appContextName=beans" value="2" />
+          <entry key="xml;appContextName=dispatcher-servlet" value="2" />
+          <entry key="xml;appContextName=service" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="17" />
+          <entry key="CSS" value="2" />
+          <entry key="Database Element" value="28" />
+          <entry key="IDEA_MODULE" value="15" />
+          <entry key="JAVA" value="727" />
+          <entry key="JSP" value="51" />
+          <entry key="JSPX" value="10" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="24" />
+          <entry key="Scratch" value="1" />
+          <entry key="UML" value="9" />
+          <entry key="XML" value="137" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="307" />
+          <entry key="css" value="13" />
+          <entry key="dummy" value="115" />
+          <entry key="java" value="15426" />
+          <entry key="jsp" value="705" />
+          <entry key="jspx" value="783" />
+          <entry key="xml" value="4319" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="13" />
+          <entry key="JAVA" value="15423" />
+          <entry key="JPA QL" value="3" />
+          <entry key="JSP" value="705" />
+          <entry key="JSPX" value="783" />
+          <entry key="PLAIN_TEXT" value="115" />
+          <entry key="Scratch" value="307" />
+          <entry key="XML" value="4319" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/impl/BaseDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/impl/UserDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/MainController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/AddRequestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3420">
+              <caret line="228" column="24" selection-start-line="228" selection-start-column="24" selection-end-line="228" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/src/main/java/com/jd2/TRDacademy/services/impl/BaseService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dao/src/main/resources/dao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dao/src/main/resources/ehcache.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dao/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dao/src/test/resources/test-dao.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Jspx File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>servl</find>
+      <find>logging</find>
+      <find>con</find>
+      <find>mar</find>
+      <find>org.ap</find>
+      <find>servlet</find>
+      <find>juni</find>
+      <find>body</find>
+      <find>SRC=</find>
+      <find>HREF</find>
+      <find>fak</find>
+      <find>log</find>
+      <find>hibe</find>
+      <find>hiber</find>
+      <find>accounts/admin/editrequests</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dao/src/main/java/com/jd2/trdacademy/utils/CustomNamingStrategy.java" />
+        <option value="$PROJECT_DIR$/dao/pom.xml" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/jd2/trdacademy/services/ClientService.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/jd2/trdacademy/services/GenericService.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/jd2/trdacademy/services/RequestService.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/jd2/trdacademy/services/TrackService.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/jd2/trdacademy/services/UserService.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/jd2/trdacademy/services/impl/ClientServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/jd2/trdacademy/services/impl/RequestServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/jd2/trdacademy/services/impl/TrackServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/jd2/trdacademy/services/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/src/test/java/com/jd2/trdacademy/services/CarServiceTest.java" />
+        <option value="$PROJECT_DIR$/dao/src/test/resources/test-dao.xml" />
+        <option value="$PROJECT_DIR$/dao/src/test/java/com/jd2/trdacademy/dao/BaseDaoTest.java" />
+        <option value="$PROJECT_DIR$/dao/src/test/java/com/jd2/trdacademy/dao/CarDaoTest.java" />
+        <option value="$PROJECT_DIR$/dao/src/test/java/com/jd2/trdacademy/dao/TrackDaoTest.java" />
+        <option value="$PROJECT_DIR$/dao/src/test/java/com/jd2/trdacademy/dao/UserDaoTest.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/jd2/trdacademy/services/CarService.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/jd2/trdacademy/services/impl/BaseService.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/jd2/trdacademy/services/impl/CarServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dao/src/main/resources/ehcache.xml" />
+        <option value="$PROJECT_DIR$/dao/src/main/java/com/jd2/trdacademy/dao/impl/BaseDao.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/dao.xml" />
+        <option value="$PROJECT_DIR$/dao/src/main/resources/dao.xml" />
+        <option value="$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/CarDao.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/web/pom.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/admin/AdminCarController.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/admin/AdminClientController.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/admin/AdminRequestController.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/admin/AdminTrackController.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/auth/LoginController.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/auth/RegistrationController.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/service/pom.xml" />
+        <option value="$PROJECT_DIR$/service/src/main/resources/service.xml" />
+        <option value="$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/entities/Car.java" />
+        <option value="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/user/UserRequestController.java" />
+        <option value="$PROJECT_DIR$/service/src/test/java/com/jd2/TRDacademy/services/BaseServiceTest.java" />
+        <option value="$PROJECT_DIR$/service/src/test/java/com/jd2/TRDacademy/services/CarServiceTest.java" />
+        <option value="$PROJECT_DIR$/service/src/test/java/com/jd2/TRDacademy/services/ClientServiceTest.java" />
+        <option value="$PROJECT_DIR$/service/src/test/java/com/jd2/TRDacademy/services/RequestServiceTest.java" />
+        <option value="$PROJECT_DIR$/service/src/test/java/com/jd2/TRDacademy/services/TrackServiceTest.java" />
+        <option value="$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/impl/TrackDaoImpl.java" />
+        <option value="$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/service/src/test/java/com/jd2/TRDacademy/services/UserServiceTest.java" />
+        <option value="$PROJECT_DIR$/dao/src/test/java/com/jd2/TRDacademy/dao/ClientDaoTest.java" />
+        <option value="$PROJECT_DIR$/dao/src/test/java/com/jd2/TRDacademy/dao/TrackDaoTest.java" />
+        <option value="$PROJECT_DIR$/dao/src/test/java/com/jd2/TRDacademy/dao/UserDaoTest.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/AddRequestController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="dao" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="dao" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TRDacademy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TRDacademy" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1366" />
+    <option name="height" value="724" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TRDacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TRDacademy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TRDacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TRDacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TRDacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TRDacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TRDacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TRDacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TRDacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TRDacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TRDacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TRDacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TRDacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TRDacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TRDacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TRDacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TRDacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TRDacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TRDacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TRDacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TRDacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TRDacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TRDacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TRDacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TRDacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TRDacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TRDacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TRDacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550680568732" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../trdAcademy" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp" />
+      <recent name="$PROJECT_DIR$/web/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/web/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/web/src/main/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jd2.TRDacademy.services" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dao/src/main/resources" />
+      <recent name="$PROJECT_DIR$/dao/src/test" />
+      <recent name="$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/utils" />
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/web/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TrackDaoTest.getByType">
+    <configuration name="BaseDaoTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jd2.TRDacademy.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jd2.TRDacademy.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.jd2.TRDacademy.dao.BaseDaoTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseDaoTest.update" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jd2.TRDacademy.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jd2.TRDacademy.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.jd2.TRDacademy.dao.BaseDaoTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarDaoTest.getByClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jd2.TRDacademy.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jd2.TRDacademy.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.jd2.TRDacademy.dao.CarDaoTest" />
+      <option name="METHOD_NAME" value="getByClass" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientDaoTest.getClientsEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jd2.TRDacademy.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jd2.TRDacademy.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.jd2.TRDacademy.dao.ClientDaoTest" />
+      <option name="METHOD_NAME" value="getClientsEmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrackDaoTest.getByType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jd2.TRDacademy.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jd2.TRDacademy.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.jd2.TRDacademy.dao.TrackDaoTest" />
+      <option name="METHOD_NAME" value="getByType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.getUsernames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jd2.TRDacademy.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jd2.TRDacademy.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.jd2.TRDacademy.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="getUsernames" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_TRDacademy" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="37095" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="web" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.14" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_TRDacademy" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="37095" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BaseDaoTest.update" />
+      <item itemvalue="Tomcat Server.web" />
+      <item itemvalue="JUnit.UserDaoTest.getUsernames" />
+      <item itemvalue="JUnit.ClientDaoTest.getClientsEmail" />
+      <item itemvalue="JUnit.BaseDaoTest.add" />
+      <item itemvalue="JUnit.CarDaoTest.getByClass" />
+      <item itemvalue="JUnit.TrackDaoTest.getByType" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TrackDaoTest.getByType" />
+        <item itemvalue="JUnit.CarDaoTest.getByClass" />
+        <item itemvalue="JUnit.ClientDaoTest.getClientsEmail" />
+        <item itemvalue="JUnit.BaseDaoTest.add" />
+        <item itemvalue="JUnit.UserDaoTest.getUsernames" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="612390ac-1d62-4768-853d-d3a97a785053" name="Default Changelist" comment="" />
+      <created>1546443968561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546443968561</updated>
+      <workItem from="1546443978775" duration="6268000" />
+      <workItem from="1546458119163" duration="7525000" />
+      <workItem from="1546534839936" duration="3215000" />
+      <workItem from="1546856207385" duration="1655000" />
+      <workItem from="1546859520439" duration="1278000" />
+      <workItem from="1546870784077" duration="5175000" />
+      <workItem from="1547051674764" duration="108000" />
+      <workItem from="1547236027818" duration="443000" />
+      <workItem from="1549797856612" duration="5705000" />
+      <workItem from="1549806394026" duration="18842000" />
+      <workItem from="1549827152031" duration="16854000" />
+      <workItem from="1549865242332" duration="268000" />
+      <workItem from="1549903756138" duration="602000" />
+      <workItem from="1550325132075" duration="8375000" />
+      <workItem from="1550341364171" duration="2216000" />
+      <workItem from="1550350031628" duration="20923000" />
+      <workItem from="1550404032136" duration="4030000" />
+      <workItem from="1550408768906" duration="6426000" />
+      <workItem from="1550415830544" duration="2152000" />
+      <workItem from="1550418892408" duration="10055000" />
+      <workItem from="1550431662739" duration="9382000" />
+      <workItem from="1550442570130" duration="1825000" />
+      <workItem from="1550507619662" duration="3777000" />
+      <workItem from="1550513149494" duration="3979000" />
+      <workItem from="1550518179766" duration="21922000" />
+      <workItem from="1550585144967" duration="4515000" />
+      <workItem from="1550592320692" duration="7594000" />
+      <workItem from="1550603393914" duration="2459000" />
+      <workItem from="1550607995535" duration="1513000" />
+      <workItem from="1550635374855" duration="1156000" />
+      <workItem from="1550636565171" duration="6995000" />
+      <workItem from="1550681154676" duration="5468000" />
+      <workItem from="1551006429253" duration="1797000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserServiceTest_getEmails - 2019.02.20 at 18h 18m 14s.xml">
+      <configuration name="UserServiceTest.getEmails" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_getEmails - 2019.02.20 at 18h 19m 14s.xml">
+      <configuration name="UserServiceTest.getEmails" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaseDaoTest - 2019.02.20 at 18h 20m 09s.xml">
+      <configuration name="BaseDaoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_getEmails - 2019.02.20 at 18h 21m 08s.xml">
+      <configuration name="UserDaoTest.getEmails" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_getUsernames - 2019.02.20 at 18h 21m 31s.xml">
+      <configuration name="UserDaoTest.getUsernames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClientDaoTest_getClientsEmail - 2019.02.20 at 18h 23m 29s.xml">
+      <configuration name="ClientDaoTest.getClientsEmail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BaseDaoTest_add - 2019.02.20 at 18h 24m 36s.xml">
+      <configuration name="BaseDaoTest.add" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ClientDaoTest_getClientsEmail - 2019.02.20 at 18h 28m 17s.xml">
+      <configuration name="ClientDaoTest.getClientsEmail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarDaoTest_getByClass - 2019.02.20 at 18h 28m 58s.xml">
+      <configuration name="CarDaoTest.getByClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrackDaoTest_getByType - 2019.02.20 at 18h 30m 13s.xml">
+      <configuration name="TrackDaoTest.getByType" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="194497000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="724" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40530303" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32888147" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848485" weight="0.3706177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39899832" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32888147" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32888147" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50151515" side_tool="true" weight="0.3706177" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32888147" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32888147" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32888147" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32888147" />
+      <window_info anchor="bottom" id="Spring" order="15" weight="0.32888147" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32954547" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.17424242" />
+      <window_info anchor="right" id="JSF" order="9" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38560605" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32888147" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848485" visible="true" weight="0.3706177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39899832" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32888147" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32888147" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50151515" side_tool="true" weight="0.3706177" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32888147" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32888147" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32888147" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32888147" />
+      <window_info anchor="bottom" id="Spring" order="15" weight="0.32888147" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32954547" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.17424242" />
+      <window_info anchor="right" id="JSF" order="9" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/impl/BaseDao.java</url>
+          <line>37</line>
+          <properties class="com.jd2.TRDacademy.dao.impl.BaseDao" method="getAll">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/dao/src/test/java/com/jd2/TRDacademy/dao/BaseDaoTest.java</url>
+          <line>53</line>
+          <properties class="com.jd2.TRDacademy.dao.BaseDaoTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/dao/src/test/java/com/jd2/TRDacademy/dao/TrackDaoTest.java</url>
+          <line>24</line>
+          <properties class="com.jd2.TRDacademy.dao.TrackDaoTest" method="getByType">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/jd2/trdacademy/services/impl/UserServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/service/src/main/resources/service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/jd2/TRDacademy/services/impl/CarServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/auth/LogoutController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/auth/RegistrationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="7" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/admin/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/filtres/LoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/entities/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://SPRING/appContextPath=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;appContextName=dispatcher-servlet">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>SPRING</ID>
+          <OriginalElement>appContextPath=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;appContextName=dispatcher-servlet</OriginalElement>
+          <nodes>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;tag=mvc:annotation-driven;offset=823</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_name=(com.jd2.TRDacademy.web.controller) [Component]</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.web.controller.auth.LogoutController;bean_name=logoutController</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.web.controller.user.UserController;bean_name=userController</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.web.controller.admin.AdminController;bean_name=adminController</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.web.controller.user.UserRequestController;bean_name=userRequestController</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.services.impl.ClientServiceImpl;bean_name=clientServiceImpl</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.services.impl.CarServiceImpl;bean_name=carServiceImpl</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.services.impl.TrackServiceImpl;bean_name=trackServiceImpl</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.services.impl.RequestServiceImpl;bean_name=requestServiceImpl</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=org.springframework.web.servlet.resource.ResourceHttpRequestHandler;tag=mvc:resources;offset=852</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=org.springframework.web.servlet.resource.ResourceHttpRequestHandler;tag=mvc:resources;offset=924</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=org.springframework.web.servlet.view.tiles3.TilesConfigurer;bean_name=tilesConfigurer</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=org.springframework.web.servlet.view.UrlBasedViewResolver;bean_name=tilesViewResolver</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=org.springframework.web.servlet.i18n.SessionLocaleResolver;bean_name=localeResolver</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;tag=tx:annotation-driven;offset=1009</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=org.springframework.orm.jpa.JpaTransactionManager;bean_name=transactionManager</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_name=(com.jd2.TRDacademy.services) [Component]</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.dao.impl.BaseDao;bean_name=baseDao</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.dao.impl.ClientDaoImpl;bean_name=clientDaoImpl</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.services.impl.BaseService;bean_name=baseService</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.dao.impl.TrackDaoImpl;bean_name=trackDaoImpl</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.dao.impl.CarDaoImpl;bean_name=carDaoImpl</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.services.impl.UserServiceImpl;bean_name=userServiceImpl</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.dao.impl.UserDaoImpl;bean_name=userDaoImpl</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=com.jd2.TRDacademy.dao.impl.RequestDaoImpl;bean_name=requestDaoImpl</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;bean_name=entityManagerFactory</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=org.apache.commons.dbcp2.BasicDataSource;bean_name=dataSource</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_class=org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter;tag=bean;offset=1613</node>
+            <node x="" y="">module=web;context=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml;bean_name=(com.jd2.TRDacademy.dao) [Component]</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.929042904290429" x="459.0" y="1500.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Local context</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://SpringLocalModels/module=web">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>SpringLocalModels</ID>
+          <OriginalElement>module=web</OriginalElement>
+          <nodes>
+            <node x="5.0" y="84.0">module=web</node>
+            <node x="146.5" y="30.5">fileset=web/MVC application context</node>
+            <node x="404.0" y="61.0">filePath=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml</node>
+            <node x="641.5" y="122.0">filePath=/home/antonydrift/.m2/repository/com/jd2/TRDacademy/dao/1.0-SNAPSHOT/dao-1.0-SNAPSHOT.jar!/dao.xml</node>
+            <node x="641.5" y="0.0">filePath=/home/antonydrift/IdeaProjects/TRDacademy/dao/src/main/resources/dao.xml</node>
+            <node x="632.0" y="61.0">filePath=/home/antonydrift/IdeaProjects/TRDacademy/service/src/main/resources/service.xml</node>
+            <node x="132.0" y="114.5">fileset=web/MVC dispatcher servlet context</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="filePath=/home/antonydrift/IdeaProjects/TRDacademy/service/src/main/resources/service.xml" target="filePath=/home/antonydrift/IdeaProjects/TRDacademy/dao/src/main/resources/dao.xml">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="fileset=web/MVC dispatcher servlet context" target="filePath=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+              <point x="98.5" y="-0.0" />
+              <point x="-74.0" y="5.25" />
+            </edge>
+            <edge source="filePath=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml" target="filePath=/home/antonydrift/.m2/repository/com/jd2/TRDacademy/dao/1.0-SNAPSHOT/dao-1.0-SNAPSHOT.jar!/dao.xml">
+              <point x="74.0" y="7.0" />
+              <point x="-34.0" y="-0.0" />
+            </edge>
+            <edge source="filePath=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml" target="filePath=/home/antonydrift/IdeaProjects/TRDacademy/dao/src/main/resources/dao.xml">
+              <point x="74.0" y="-7.0" />
+              <point x="-34.0" y="-0.0" />
+            </edge>
+            <edge source="module=web" target="fileset=web/MVC dispatcher servlet context">
+              <point x="23.5" y="5.25" />
+              <point x="-98.5" y="-0.0" />
+            </edge>
+            <edge source="fileset=web/MVC application context" target="filePath=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+              <point x="79.0" y="-0.0" />
+              <point x="324.0" y="41.0" />
+              <point x="-74.0" y="-5.25" />
+            </edge>
+            <edge source="filePath=/home/antonydrift/IdeaProjects/TRDacademy/web/src/main/webapp/WEB-INF/dispatcher-servlet.xml" target="filePath=/home/antonydrift/IdeaProjects/TRDacademy/service/src/main/resources/service.xml">
+              <point x="74.0" y="-0.0" />
+              <point x="-43.5" y="-0.0" />
+            </edge>
+            <edge source="module=web" target="fileset=web/MVC application context">
+              <point x="23.5" y="-5.25" />
+              <point x="127.0" y="41.0" />
+              <point x="-79.0" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="198.0" y="138.0" />
+          <SelectedNodes>
+            <node>filePath=/home/antonydrift/.m2/repository/com/jd2/TRDacademy/dao/1.0-SNAPSHOT/dao-1.0-SNAPSHOT.jar!/dao.xml</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Show filesets as groups</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/jd2/TRDacademy/dao/1.0-SNAPSHOT/dao-1.0-SNAPSHOT.jar!/dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/jd2/TRDacademy/dao/1.0-SNAPSHOT/dao-1.0-SNAPSHOT.jar!/com/jd2/TRDacademy/dao/impl/TrackDaoImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" column="124" selection-start-line="22" selection-start-column="124" selection-end-line="22" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/admin/AdminCarController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/user/UserRequestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c2100994-4d84-42aa-a108-637ea7409a3d/schema/Machine/table/cars">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/jd2/TRDacademy/services/impl/ClientServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/jd2/TRDacademy/services/TrackService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/jd2/TRDacademy/services/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/test/java/com/jd2/TRDacademy/services/BaseServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/test/java/com/jd2/TRDacademy/services/CarServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/test/java/com/jd2/TRDacademy/services/ClientServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/test/java/com/jd2/TRDacademy/services/RequestServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/test/java/com/jd2/TRDacademy/services/TrackServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/test/java/com/jd2/TRDacademy/services/UserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/CarDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/RequestDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/GenericDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/ClientDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/impl/RequestDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/test/java/com/jd2/TRDacademy/dao/BaseDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/test/java/com/jd2/TRDacademy/dao/CarDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/test/java/com/jd2/TRDacademy/dao/ClientDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/test/java/com/jd2/TRDacademy/dao/TrackDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/TrackDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/impl/TrackDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/impl/CarDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/impl/ClientDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/test/java/com/jd2/TRDacademy/dao/UserDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/impl/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/jd2/TRDacademy/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/jd2/TRDacademy/web/controller/AddRequestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3420">
+          <caret line="228" column="24" selection-start-line="228" selection-start-column="24" selection-end-line="228" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/jd2/TRDacademy/services/impl/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/resources/dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/resources/ehcache.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/test/resources/test-dao.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="artifact" />
+              <type id="library" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>web:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (web)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.mchange:c3p0:0.9.5.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="install -DskipTests" />
+  </component>
+</project>
